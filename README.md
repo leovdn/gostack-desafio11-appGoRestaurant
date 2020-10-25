@@ -1,5 +1,9 @@
 # Desafio 11 - GoRestaurant Mobile
 
+<p align=center>
+  <img src="assets/appGoRestaurant-finished.gif" />
+</p>
+
 ## 📖	Sobre o Projeto
 
 O **GoRestaurant Mobile** é o aplicativo para seleção de pedidos de restaurante. 
